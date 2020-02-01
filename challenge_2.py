@@ -1,4 +1,6 @@
 '''
+Replace ith element with product of other elements
+
 WITH DIVISION
 
 a = [int(x) for x in input().split()]
